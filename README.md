@@ -1,6 +1,5 @@
 # Matplotlib
-# The objective is to  find the best treatment for mouse tumor.
-
+# The objective is to determine which drug is best suited for treating tumors in mice minimal effects from the following drugs ( Capomulin, Zoniferol, Stelasyn, Ramicane, Propriva, Placebo, Naftisol, Ketapril, Infubinol, Ceftamin)
 # In order to achieve the above, the following activities need to be done:-
 
 # Combine the two data files into a single dataset
